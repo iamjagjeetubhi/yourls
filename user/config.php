@@ -8,10 +8,10 @@
  */
 
 /** MySQL database username */
-define( 'YOURLS_DB_USER', 'root' );
+define( 'YOURLS_DB_USER', '****' );
 
 /** MySQL database password */
-define( 'YOURLS_DB_PASS', 'a' );
+define( 'YOURLS_DB_PASS', '*****' );
 
 /** The name of the database for YOURLS */
 define( 'YOURLS_DB_NAME', 'yourls' );
